@@ -27,6 +27,6 @@ I combine optimization and modern design (UI/UX) in all the resources I create. 
 
 *   📞 **Support Discord (Sınırsız Destek & İletişim):** [Join the Community!](https://discord.gg/8eREdUmqQZ)
 *   👤 **Personal Discord:** [Alisizm (Direct Message)](https://discord.com/users/298884211308363779)
-
+*   🌐 **Resmi Sunucumuz:** [https://discord.gg/pWaH56XcWS](https://discord.gg/pWaH56XcWS)
 ---
 *⚡ "Quality scripts for quality servers." / "Kaliteli sunucular için kaliteli eklentiler."*
